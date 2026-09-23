@@ -5,5 +5,5 @@ This demo uses [`cog`](https://cog.readthedocs.io/en/latest/index.html) to keep 
 ```shell
 pip install -r requirements.txt
 
-./sync.sh **/*.md
+./sync.sh *.md
 ```
